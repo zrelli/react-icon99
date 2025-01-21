@@ -1,0 +1,16 @@
+{
+  "name": "react-icon99",
+  "version": "2.0.0",
+  "description": "",
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrelli/react-icon99.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrelli/react-icon99/issues"
+  },
+  "homepage": "https://github.com/zrelli/react-icon99#readme"
+}
